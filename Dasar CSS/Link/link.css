@@ -1,0 +1,10 @@
+.navigasi{
+    color: rgb(0, 255, 51);
+}
+.navigasi:hover{
+    color: blue;
+    text-decoration: none;
+}
+.navigasi:active{
+    color: rgb(255, 6, 6);
+}

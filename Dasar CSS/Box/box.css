@@ -1,0 +1,12 @@
+div {
+    width: 350px;
+    border: 20px solid rgb(72, 0, 255);
+    padding: 30px;
+    margin: 20px;
+}
+
+p {
+    font-size: 30px;
+    color: rgb(10, 216, 20);
+    text-shadow: 2px 2px 2px black;
+}

@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.kotak1{
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    background: rgb(0, 68, 255);
+    border: 1px solid black;
+}
